@@ -3,7 +3,8 @@ Collection of my projects and growth
 
 👋 Hi, I’m **Shehzeen** — Aspiring ACCA student.  
 This repository is a collection of my work, projects, and career journey.  
-                                     ---
+
+---
 
 ## 📌 About Me  
 - 🎓 Current student of **ACCA Foundation**                     
