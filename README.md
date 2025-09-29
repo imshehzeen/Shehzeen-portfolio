@@ -7,8 +7,8 @@ This repository is a collection of my work, projects, and career journey.
 
 ## 📌 About Me  
 - 🎓 Current student of **ACCA Foundation**                     
-- 💼 Interested in **Audit and data analytics**  
-📝 Exams passed **0/17**
+- 💼 Interested in **Audit and data analytics** 
+- 📝 Exams passed **0/17**
 
 ---
 
